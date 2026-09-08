@@ -1,0 +1,28 @@
+# 컴파일 결과물
+*.class
+out/
+bin/
+build/
+target/
+
+# 빌드 도구
+.gradle/
+.mvn/
+gradle-app.setting
+
+# 로그 / 임시 파일
+*.log
+*.tmp
+
+# IDE 설정
+.idea/
+*.iml
+.vscode/
+.eclipse/
+.classpath
+.project
+.settings/
+
+# OS 생성 파일
+.DS_Store
+Thumbs.db
