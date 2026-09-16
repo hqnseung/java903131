@@ -1,4 +1,4 @@
-package week02;
+package src.week02;
 
 public class HelloJava {
     public static void main(String[] args) {
